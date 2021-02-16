@@ -72,6 +72,7 @@
       </plugins>
     </pluginManagement>
   </build>
+  </project>
   <distributionManagement>
     <repository>
         <id>central</id>
@@ -84,4 +85,4 @@
         <url>http://localhost:8081/artifactory/jenkins1</url>
     </snapshotRepository>
 </distributionManagement>
-</project>
+
